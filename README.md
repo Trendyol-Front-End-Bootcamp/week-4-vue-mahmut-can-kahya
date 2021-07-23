@@ -2,8 +2,8 @@
 
 ### Starship List & Search
 
-![Image](/public/starhip-list.png)
-
+![Image](/src/assets/starship-list.png)
+Cancel changes
 ### Starship Detail
 
-![Image](/public/detail.png)
+![Image](/src/assets/detail.png)
