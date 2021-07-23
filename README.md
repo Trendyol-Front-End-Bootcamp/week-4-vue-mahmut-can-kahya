@@ -1,24 +1,9 @@
-# star-wars
+## Preview
 
-## Project setup
-```
-npm install
-```
+### Starship List & Search
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![Image](/public/starhip-list.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Starship Detail
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![Image](/public/detail.png)
